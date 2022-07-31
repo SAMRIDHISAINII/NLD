@@ -1,6 +1,6 @@
 # Natural language detection
 
-## get started by using 
+## Get started by using 
 
 $ cargo run
    Compiling grrs v0.1.0 (/Users/pascal/code/grrs)
